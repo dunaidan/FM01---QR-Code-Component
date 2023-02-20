@@ -31,8 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML markup
 - CSS custom properties
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I learned how to use position: (relative, absolute, fixed and sticky) in CSS and how works: 
@@ -47,7 +45,7 @@ In the next projects I want to use flex and understand better how it works
 
 ### Useful resources
 
-- [CSS classes](https://medium.com/insider-inc-engineering/delightful-ways-to-write-reusable-css-using-subclasses-903e90c9cf87) - This helped me for to undertand how to write resuable css classes.
+- [CSS classes](https://medium.com/insider-inc-engineering/delightful-ways-to-write-reusable-css-using-subclasses-903e90c9cf87) - This helped me to undertand how to write resuable css classes.
 
 ## Author
 
